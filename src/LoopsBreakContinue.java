@@ -12,7 +12,7 @@ public class LoopsBreakContinue {
 
         for(int t=0;t<=10;t++){if(t%3!=0){continue;}System.out.println("t: "+t);}
 
-        //while (true){System.out.println("ssss");}
+        while (true){System.out.println("sssss");}
 
 
     }

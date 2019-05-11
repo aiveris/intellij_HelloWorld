@@ -20,14 +20,15 @@ public class Loops {
 
         System.out.println("---------------------");*/
 
-        for(i=2; i<=20; i+=2){System.out.println("Even numbers: " +i);}
+        for(i=1; i<=10; i+=1){System.out.println("Even numbers: " +i);}
 
         System.out.println("---------------------");
 
-        for(i=1; i<=20; i+=2){System.out.println("Odd numbers: " +i);}
+       /* for(i=1; i<=20; i+=2){System.out.println("Odd numbers: " +i);}
 
         System.out.println("------------------");
 
-        for(int x=0; x<10; x++){System.out.println("for loop" +x);}
+        for(int x=0; x<10; x++){System.out.println("for loop" +x);}*/
+
     }//psv
 }//class
